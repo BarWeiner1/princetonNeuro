@@ -1,0 +1,4 @@
+# princetonNeuro
+Our team utilizes cognitive computational models to understand high-level cognition by constraining computational models of cognition by brain data. 
+I helped visualize electrocorticographic signal readings and speech data to map concepts in the neuronal space. I programmed a dynamic model of the brain and the artificial neurodes we monitored using 3-dimensional graphing tools in MATLAB, where the data and activation graphs for each neurode can be accessed by hovering with the mouse over the neurodes on the model.
+I implemented my model’s functionality and the object-oriented layout in JavaScript, then mapped it onto the web using HTML and CSS. This streamlined our team’s ability to effectively visualize the stimulation of different neurons during various activities and timescales, and update my model for different trials.
